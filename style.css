@@ -1,0 +1,23 @@
+@font-face{
+	font-family: RenosRough-Regular;
+	src : url('assets/fonts/RenosRough-Regular.otf');
+}
+
+#header {
+    padding-top: 100px;
+}
+
+#Signin{
+    font-family: RenosRough-Regular;
+    text-align: right;
+    margin-right: 450px;
+}
+
+#Logo {
+    width: 100px;
+    height: 100px;
+}
+
+#sign-up {
+  
+}
